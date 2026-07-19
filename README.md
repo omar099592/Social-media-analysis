@@ -1,4 +1,4 @@
-# Social-media-analysis
+# Social-media-survey-analysis
 Analyze a social media survey dataset & extract usefull insights.
 
 # Social Media Analytics Dashboard
